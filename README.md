@@ -32,6 +32,7 @@ Project is created with:
 - [Phaser 3](https://phaser.io/phaser3)
 - [Tiled (Map builder)](https://www.mapeditor.org/)
 - [Handlebars](https://handlebarsjs.com/)
+- [Electronjs](https://electronjs.org/)
 
 ## Deployment
 
