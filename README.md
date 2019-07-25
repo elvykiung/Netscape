@@ -54,12 +54,6 @@ Download the repository
 - mySql for database connection
 - node.js to run and management models
 
-## JavaScript Game Function explain
-
-## CSS style
-
-## handlebars
-
 #### Here the code to run different css style for different page
 
 ```
