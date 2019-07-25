@@ -12,7 +12,7 @@
 
 ## General info
 
-This is mini online game that you can compete high score with everyone online. Goals is to collet as much coins and kill as much monsters in shortest time. Your score will display on the leader board if you are the top 20. You can also see the top5 life data while you are in the game
+This is mini online game that you can complete high score with everyone online. Goals is to collect as much coins and kill as much monsters in shortest time. Your score will display on the leader board if you are the top 20. You can also see the top5 life data while you are in the game
 
 Game Link: https://morning-reaches-86959.herokuapp.com/
 
